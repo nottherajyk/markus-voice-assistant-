@@ -257,7 +257,7 @@ VARIANT_EXTRAS: dict[str, list[str]] = {
     "watch":            ["markus watch something", "lets watch something"],
     "watch_movies":     ["markus movies", "watch some movies", "lets watch some movies"],
     "play_music":       ["play some music", "markus music"],
-    "my_playlist":      ["play my playlist", "my playlist"],
+    "my_playlist":      ["play my playlist", "markus play my playlist"],
     "pause":            ["pause", "markus stop"],
     "play":             ["play", "markus resume"],
     "next_track":       ["next song", "skip this song", "change the song", "markus next", "markus skip"],
