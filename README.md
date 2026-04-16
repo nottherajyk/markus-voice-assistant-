@@ -9,7 +9,7 @@
 *   🔒 **Fully Offline**: No API keys, no internet required, and no subscription fees.
 *   🧠 **Smart Prefix Normalization**: Say **"Markus, [command]"** or just the command naturally—he'll understand.
 *   🔊 **Precise Volume Control**: Commands like "lower the volume" are tuned for an exact 30% reduction.
-*   🎬 **Media Focused**: Pre-mapped to prioritize your **D:\Movies** directory and media controls.
+*   🎬 **Media Focused**: Pre-mapped to prioritize your **:\Movies** directory and media controls.
 *   💻 **Windows Master**: Launch any app, minimize windows, take screenshots, or even shutdown your PC.
 
 ---
